@@ -3,8 +3,8 @@ package usecase
 import (
 	"time"
 
-	"github.com/codeedu/codebank/domain"
-	"github.com/codeedu/codebank/dto"
+	"github.com/cleitonestefenon/imersao-fullcycle/domain"
+	"github.com/cleitonestefenon/imersao-fullcycle/dto"
 )
 
 type UseCaseTransaction struct {

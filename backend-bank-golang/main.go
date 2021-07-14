@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/codeedu/codebank/domain"
-	"github.com/codeedu/codebank/infrastructure/repository"
-	"github.com/codeedu/codebank/usecase"
+	"github.com/cleitonestefenon/imersao-fullcycle/domain"
+	"github.com/cleitonestefenon/imersao-fullcycle/infrastructure/repository"
+	"github.com/cleitonestefenon/imersao-fullcycle/usecase"
 	_ "github.com/lib/pq"
 )
 

@@ -1,4 +1,4 @@
-module github.com/codeedu/codebank
+module github.com/cleitonestefenon/imersao-fullcycle
 
 go 1.15
 

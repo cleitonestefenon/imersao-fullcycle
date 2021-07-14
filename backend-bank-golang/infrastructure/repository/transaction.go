@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"errors"
 
-	"github.com/codeedu/codebank/domain"
+	"github.com/cleitonestefenon/imersao-fullcycle/domain"
 )
 
 type TransactionRepositoryDb struct {
